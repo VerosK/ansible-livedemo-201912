@@ -7,3 +7,4 @@
   get_url:
     url: '{{ adminer_src_url }}'
     dest: '{{ adminer_file }}'
+    checksum: '{{ adminer_file_checksum }}'

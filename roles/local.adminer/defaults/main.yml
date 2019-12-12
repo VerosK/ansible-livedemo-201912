@@ -6,3 +6,4 @@ adminer_dir: '/opt/adminer-{{ adminer_version }}'
 adminer_src_url:
   'https://github.com/vrana/adminer/releases/download/v{{ adminer_version }}/adminer-{{ adminer_version }}.php'
 adminer_file: '{{ adminer_dir }}/index.php'
+adminer_file_checksum: sha1:ba8ef50db052bd2ba635f3c5712b308fa32d227d

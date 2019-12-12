@@ -1,3 +1,8 @@
 - name: geerlingguy.postgresql
   version: 2.0.0
 #  src: git+https://github.com/geerlingguy/ansible-role-postgresql
+- name: geerlingguy.apache
+  version: 3.1.0
+- name: geerlingguy.php
+  version: 3.7.0
+

@@ -16,3 +16,4 @@
     - role: geerlingguy.apache
     - role: geerlingguy.php
     - role: local.adminer
+      tags: adminer

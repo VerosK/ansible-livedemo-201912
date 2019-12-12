@@ -1,0 +1,4 @@
+- name: Create adminer dir
+  file:
+    path: '{{ adminer_dir }}'
+    state: directory

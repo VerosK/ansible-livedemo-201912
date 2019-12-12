@@ -1,7 +1,7 @@
 # roles/local.adminer/defaults/main.yml
 
 adminer_version: 4.7.5
-adminer_dir: '/opt/adminer-{{ adminer_version }}'
+adminer_dir: '/opt/adminer-{{ adminer_version }}/'
 
 adminer_src_url:
   'https://github.com/vrana/adminer/releases/download/v{{ adminer_version }}/adminer-{{ adminer_version }}.php'

@@ -1,0 +1,3 @@
+
+php_packages_extra:
+  - php-pgsql

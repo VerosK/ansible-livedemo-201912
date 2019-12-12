@@ -1,0 +1,5 @@
+- name: Setup database and and webserver
+  hosts: all
+
+  roles:
+    - role: geerlingguy.postgresql
